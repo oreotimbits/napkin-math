@@ -1,4 +1,4 @@
-# napkin-math
+# Napkin Math
 ![image](https://user-images.githubusercontent.com/39680023/225874516-a06e5ed6-9f62-4b00-8da6-750f71967786.png)
 
 ## Formal Qualities
